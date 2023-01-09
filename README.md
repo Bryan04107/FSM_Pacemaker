@@ -18,3 +18,6 @@ In the diagram, the 4 states are Normal (00), Tachycardia (01), Bradycardia (10)
 ![KMap3](Img/KMap3.png)
 ### Output 2
 ![KMap4](Img/KMap4.png)
+
+## The C Code
+![CodeRunning](Img/CRun.gif)
